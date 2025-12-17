@@ -1,0 +1,14 @@
+.{
+    .name = .leela,
+    .version = "1.0.0",
+    .fingerprint = 0x2bf916ce75c3b142,
+    .minimum_zig_version = "0.15.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+        "LICENSE",
+    },
+    .dependencies = .{},
+}
